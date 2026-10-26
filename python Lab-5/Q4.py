@@ -1,0 +1,13 @@
+# Q)4 Given a string, count the frequency of each word.
+
+sentence = input("Enter the string : ")
+
+words = sentence.split()
+word_freq = {}
+for word in words:
+    if word in word_freq:
+        word_freq[word] += 1
+    else:
+        word_freq[word] = 1
+
+print(word_freq)

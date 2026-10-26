@@ -1,0 +1,9 @@
+#  programm to display a calendar 
+
+import calendar
+
+year = int(input("Enter the year : "))
+month = int(input("Enter the month : "))
+
+calendar = calendar.month(year , month)
+print(calendar)

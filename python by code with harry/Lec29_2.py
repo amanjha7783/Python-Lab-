@@ -1,0 +1,2 @@
+PythonFinalizationError
+import this 

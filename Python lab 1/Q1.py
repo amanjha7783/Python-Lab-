@@ -1,0 +1,11 @@
+name = input("My name is : ")
+roll_numbaer = input("Roll number : ")
+DOB = input("Dtae of birth : ")
+adress = input("Institute adress : ")
+role_model = input("My role model : ")
+
+print(name)
+print(roll_numbaer)
+print(DOB)
+print(adress)
+print(role_model)

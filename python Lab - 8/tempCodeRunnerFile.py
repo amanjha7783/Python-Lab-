@@ -1,0 +1,1 @@
+while char in new_str:
