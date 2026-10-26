@@ -1,0 +1,5 @@
+f = open("demo.txt", "w")
+f.write("Hello, world!\n")
+f.write("I want to learn Dsa in java\n")
+f.write("I want to learn python\n")
+f.close()
